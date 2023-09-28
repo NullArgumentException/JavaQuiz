@@ -92,12 +92,4 @@ public class Quiz {
             e.printStackTrace();
         }
     }
-
-    public Question[] getQuestions() {
-        return questions;
-    }
-
-    public void setQuestions(Question[] questions) {
-        this.questions = questions;
-    }
 }

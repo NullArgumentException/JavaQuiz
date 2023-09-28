@@ -7,9 +7,6 @@ public class Question {
     private String[] answers;
     private String solution;
 
-    public Question() {
-    }
-
     public Question(String question, String[] answers, String solution) {
         this.question = question;
         this.answers = answers;
@@ -29,25 +26,5 @@ public class Question {
 
     public String getSolution() {
         return solution;
-    }
-
-    public String getQuestion() {
-        return question;
-    }
-
-    public String[] getAnswers() {
-        return answers;
-    }
-
-    public void setQuestion(String question) {
-        this.question = question;
-    }
-
-    public void setAnswers(String[] answers) {
-        this.answers = answers;
-    }
-
-    public void setSolution(String solution) {
-        this.solution = solution;
     }
 }
