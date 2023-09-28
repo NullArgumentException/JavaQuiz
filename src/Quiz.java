@@ -1,10 +1,9 @@
-/**
- * @author Stefan Schubmehl
- */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-
+/**
+ * @author NullArgumentException
+ */
 public class Quiz {
     private Question[] questions;
     private Scanner sc;

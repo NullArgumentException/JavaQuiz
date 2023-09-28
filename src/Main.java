@@ -1,9 +1,11 @@
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
-
+/**
+ * @author NullArgumentException
+ */
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         String jsonPath = "./src/questions.json";
 
         try {

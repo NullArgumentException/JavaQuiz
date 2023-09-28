@@ -1,5 +1,5 @@
 /**
- * @author Stefan Schubmehl
+ * @author NullArgumentException
  */
 public class Question {
     private final String[] letters = {"A) ", "B) ", "C) ", "D) "};
