@@ -1,0 +1,96 @@
+[
+  {
+    "question": "Was ist Java ebenfalls?",
+    "answers": [
+      "Eine Insel",
+      "Ein Fluss",
+      "Ein Königreich",
+      "Ein Betriebssystem"
+    ],
+    "solution": "a"
+  },
+  {
+    "question": "Was ist die richtige Syntax um \"Hello World\" in Java auszugeben?",
+    "answers": [
+      "echo(\"Hello World\");",
+      "print (\"Hello World\");",
+      "System.out.println(\"Hello World\");",
+      "Console.WriteLine(\"Hello World\");"
+    ],
+    "solution": "c"
+  },
+  {
+    "question": "Java ist die Abkürzung für \"JavaScript\"",
+    "answers": [
+      "Richtig",
+      "Falsch"
+    ],
+    "solution": "b"
+  },
+  {
+    "question": "Wie fügt man in Java Kommentare ein?",
+    "answers": [
+      "/* Dies ist ein Kommentar",
+      "#  Dies ist ein Kommentar",
+      "//  Dies ist ein Kommentar"
+    ],
+    "solution": "c"
+  },
+  {
+    "question": "Welcher Datentyp wird genutzt, um Text zu speichern?",
+    "answers": [
+      "myString",
+      "string",
+      "Txt",
+      "String"
+    ],
+    "solution": "d"
+  },
+  {
+    "question": "Wie erstellt man eine Variable mit dem numerischen Wert 5?",
+    "answers": [
+      "float x = 5;",
+      "x = 5;",
+      "num x = 5",
+      "int x = 5;"
+    ],
+    "solution": "d"
+  },
+  {
+    "question": "Wie erstellt man eine Variable mit der Gleitkommazahl 2,8?",
+    "answers": [
+      "x = 2,8f;",
+      "float x = 2,8;",
+      "float x = 2.8f",
+      "int x = 2.8;"
+    ],
+    "solution": "c"
+  },
+  {
+    "question": "Mit welcher Methode kann man die Länge eines Strings bestimmen?",
+    "answers": [
+      "size()",
+      "length()",
+      "getLength()",
+      "len()"
+    ],
+    "solution": "b"
+  },
+  {
+    "question": "Welcher Operator wird verwendet, um zwei Werte zu addieren?",
+    "answers": [
+      "Das & Zeichen",
+      "Das * Zeichen",
+      "Das + Zeichen"
+    ],
+    "solution": "c"
+  },
+  {
+    "question": "Der Wert einer String-Variablen kann von einfachen Anführungszeichen umgeben sein.",
+    "answers": [
+      "Richtig",
+      "Falsch"
+    ],
+    "solution": "b"
+  }
+]
